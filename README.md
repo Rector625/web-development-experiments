@@ -26,7 +26,7 @@ git init
 git add .
 git commit -m "Add web development experiments"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/web-development-experiments.git
+git remote add origin https://github.com/Rector625/web-development-experiments.git
 git push -u origin main
 ```
 
